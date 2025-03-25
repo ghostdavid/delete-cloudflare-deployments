@@ -1,3 +1,5 @@
+# *如果要使用，去fork原项目修改，不要fork我的*
+
 # Cloudflare Pages 部署记录清理工具
 
 解决 Cloudflare Pages 部署记录过多，导致无法创建新部署，无法删除项目的问题。
