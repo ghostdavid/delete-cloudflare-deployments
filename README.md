@@ -1,4 +1,4 @@
-# *如果要使用，去fork原项目修改，不要fork我的*
+# *如果要用，fork原仓库的最新版本去修改，不要fork我的*
 
 # Cloudflare Pages 部署记录清理工具
 
